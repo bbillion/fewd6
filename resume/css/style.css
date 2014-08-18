@@ -1,0 +1,30 @@
+
+div
+{
+ 	border-radius: 5px;
+    }
+
+h1{
+	text-align: center;
+}
+
+
+h2{
+	text-align: center;
+	background-color: #C0C0C0;
+}
+
+#name{
+	text-align: center;
+	padding-bottom: 10px;
+	font-size: 15px;
+}
+
+.title{
+	font-weight: bold;
+}
+
+
+ul{
+    list-style-type: square;
+}
